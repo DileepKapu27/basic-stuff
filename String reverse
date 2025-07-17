@@ -1,0 +1,3 @@
+q="dileep"
+r=q[::-1]
+print(r)
